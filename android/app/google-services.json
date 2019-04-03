@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "319144360984",
+    "firebase_url": "https://touch-e242c.firebaseio.com",
+    "project_id": "touch-e242c",
+    "storage_bucket": "touch-e242c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319144360984:android:75c5b818da676db5",
+        "android_client_info": {
+          "package_name": "waunbroderick.me.touch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdtYjv-SBg2sZzFnSnH6wgS_PDfOhv2b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319144360984-4otm20aqqhnnlicargkqnliev2bhg61i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
