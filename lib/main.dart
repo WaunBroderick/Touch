@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:touch/login_page.dart';
 import 'auth.dart';
+import 'root_page.dart';
 
 void main(){
   runApp(new MyApp());
