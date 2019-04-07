@@ -1,3 +1,9 @@
+# Don't track the content of these folders
+
+
+# Sensitive Key and Password information
+./android/app/google-services.json
+
 # Miscellaneous
 *.class
 *.log
